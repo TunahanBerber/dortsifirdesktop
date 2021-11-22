@@ -1,0 +1,19 @@
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\DortSifir.exe
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\DortSifir.deps.json
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\DortSifir.runtimeconfig.json
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\DortSifir.runtimeconfig.dev.json
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\DortSifir.dll
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\ref\DortSifir.dll
+C:\Users\Tunahan\source\repos\DortSifir\bin\Debug\net5.0-windows\DortSifir.pdb
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.Form1.resources
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.csproj.GenerateResource.cache
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.AssemblyInfoInputs.cache
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.AssemblyInfo.cs
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.dll
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\ref\DortSifir.dll
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.pdb
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.genruntimeconfig.cache
+C:\Users\Tunahan\source\repos\DortSifir\obj\Debug\net5.0-windows\DortSifir.Form1 - Copy.resources
